@@ -1,7 +1,7 @@
 {
   "name": "blockchain-discord-bot",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "discord.js",
   "repository": "git@github.com:Aluxray/deploy-your-first-discord-blockchain-bot.git",
   "author": "Alexandre VIGOUREUX <alexandre.vigoureux@epitech.eu>",
   "license": "MIT",
